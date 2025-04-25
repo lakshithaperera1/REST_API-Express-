@@ -24,12 +24,6 @@ A blazing-fast 🔥 RESTful API built with **Node.js** and **Express.js** for se
 
 ---
 
-## � Dashboard Preview
-
-![API Dashboard](https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif)  
-*(Example of API responses in Postman)*
-
----
 
 ## 🛠 Tech Stack <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="30">
 
